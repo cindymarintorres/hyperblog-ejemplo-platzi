@@ -42,3 +42,8 @@ body
 {
     padding: 1em;
 }
+
+#CambioMaster{
+    background-color: antiquewhite;
+    color: crimson;
+}
