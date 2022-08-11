@@ -2,4 +2,6 @@ Esta es mi historia para aprender GIT
 
 Ya hice mi primer commit, ahora deseo quitarlo
 
+Ahora estamos con otro usuario de pruebas GIT USER 2
+
 Quiero aprender como revertir o quitar un commit en el repo
