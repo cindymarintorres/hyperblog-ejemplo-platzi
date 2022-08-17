@@ -6,6 +6,7 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: antiquewhite;
 }
 
 #cabecera
@@ -46,4 +47,19 @@ body
 #CambioMaster{
     background-color: antiquewhite;
     color: crimson;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+    text-align: right;
+    float: right;
 }
