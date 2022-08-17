@@ -63,3 +63,10 @@ body
     text-align: right;
     float: right;
 }
+
+#footer{
+    font-size: 1.2rem;
+    text-align: center;
+    background-color: #d8d8d8;
+}
+
