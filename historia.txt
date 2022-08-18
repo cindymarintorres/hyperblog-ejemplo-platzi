@@ -4,4 +4,7 @@ Ya hice mi primer commit, ahora deseo quitarlo
 
 Ahora estamos con otro usuario de pruebas GIT USER 2
 
+Ahora haremos cambios desde un usuario que no es un colaborador, sino
+solo contribuye a los cambios pero no pertenece a un repositorio
+
 Quiero aprender como revertir o quitar un commit en el repo
