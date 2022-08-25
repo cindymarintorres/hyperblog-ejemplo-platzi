@@ -6,6 +6,8 @@ Ahora estamos con otro usuario de pruebas GIT USER 2
 
 ////Master 1///
 
+////Master 2///
+
 Ahora haremos cambios desde un usuario que no es un colaborador, sino
 solo contribuye a los cambios pero no pertenece a un repositorio
 
